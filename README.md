@@ -55,7 +55,7 @@ Clearly, a bulk of the sales are concentrated in the states of Oklahoma and Kans
 
 #### Temporal Error
 
-Each house sale is also plotted as a small "dash" on a timeline below:
+Each house sale is also plotted as a small "purple dash" on a timeline below:
 
 ![Timeline view of house sales](https://lh3.googleusercontent.com/-JHi9NKVG_po/WdzZWDWaFVI/AAAAAAAAZB0/-pLLnnwjvK48757-NDas-kW80kDUmxluwCLcBGAs/s0/Screen+Shot+2017-10-10+at+10.28.58+AM.png "Screen Shot 2017-10-10 at 10.28.58 AM.png")
 
