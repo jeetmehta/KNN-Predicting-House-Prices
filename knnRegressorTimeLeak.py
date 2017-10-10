@@ -66,7 +66,7 @@ class KNNRegressorTimeLeak():
 	def predict(self, X_test):
 		Y_pred = []
 		for i in range(len(X_test)):
-			# print "Predicting Sample #: ", i, " of ", len(X_test), " samples"
+			print "Predicting Sample #: ", i, " of ", len(X_test), " samples"
 			prediction = self.predict_single_instance(X_test[i])
 			Y_pred.append(prediction)
 		return Y_pred
